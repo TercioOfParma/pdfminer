@@ -6,6 +6,9 @@ minor adjustments needed for the development environment within the
 Monumenta Germaniae Historica. The adjustments are expected to be of
 little use for a wider audience.
 
+This has been forked for the sake of my PDF to LaTex Mathematical Extractor Project,
+as this possesses the tools necessary to extract subscripts and superscripts. 
+
 In a later step the adjustments made in the PDFMiner.six project
 were merged into this project to ensure Python 2+3 compatibility.
 
